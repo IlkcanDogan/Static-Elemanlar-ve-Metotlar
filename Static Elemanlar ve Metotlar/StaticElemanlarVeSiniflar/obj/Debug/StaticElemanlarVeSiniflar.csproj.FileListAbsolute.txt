@@ -1,0 +1,6 @@
+c:\users\mka\documents\visual studio 2012\Projects\StaticElemanlarVeSiniflar\StaticElemanlarVeSiniflar\bin\Debug\StaticElemanlarVeSiniflar.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\StaticElemanlarVeSiniflar\StaticElemanlarVeSiniflar\obj\Debug\StaticElemanlarVeSiniflar.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\StaticElemanlarVeSiniflar\StaticElemanlarVeSiniflar\bin\Debug\StaticElemanlarVeSiniflar.exe
+c:\users\mka\documents\visual studio 2012\Projects\StaticElemanlarVeSiniflar\StaticElemanlarVeSiniflar\bin\Debug\StaticElemanlarVeSiniflar.pdb
+c:\users\mka\documents\visual studio 2012\Projects\StaticElemanlarVeSiniflar\StaticElemanlarVeSiniflar\obj\Debug\StaticElemanlarVeSiniflar.exe
+c:\users\mka\documents\visual studio 2012\Projects\StaticElemanlarVeSiniflar\StaticElemanlarVeSiniflar\obj\Debug\StaticElemanlarVeSiniflar.pdb
